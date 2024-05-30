@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonEffect</string>
+    <string name="lightning">Lightning</string>
+    <string name="animated_button">Animated Button!</string>
+</resources>
